@@ -6,7 +6,7 @@ This Assignment combines knowlege i learned in my module Data Structures and Alg
 learned about the use of Linked and Generic Lists and how they are implemented. This project
 takes what was taught in that module and applied to this assignment.
 
-![](images/warehouse GUI.png)
+![alt text](http://url/to/warehouse GUI.png)
 
 The Warehouse is broken into 4 parts:
 - Floor
